@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tugas Lazday Minggu 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="nama">Nama</string>
+    <string name="kota">Kota</string>
+    <string name="simpan">Simpan</string>
+    <string name="date">01-01-2010</string>
+    <string name="delete_all_student">Delete All Data</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+</resources>
