@@ -1,4 +1,4 @@
-package com.cuncisboss.tugaslazdayminggu3.model;
+package com.cuncisboss.daftarsiswa.model;
 
 public class Student {
 //    private int id;

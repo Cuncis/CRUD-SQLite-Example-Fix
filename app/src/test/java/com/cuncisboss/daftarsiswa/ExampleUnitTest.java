@@ -1,4 +1,4 @@
-package com.cuncisboss.tugaslazdayminggu3;
+package com.cuncisboss.daftarsiswa;
 
 import org.junit.Test;
 

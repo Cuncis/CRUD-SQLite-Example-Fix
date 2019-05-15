@@ -1,4 +1,4 @@
-package com.cuncisboss.tugaslazdayminggu3.db;
+package com.cuncisboss.daftarsiswa.db;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -6,7 +6,7 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import com.cuncisboss.tugaslazdayminggu3.model.Student;
+import com.cuncisboss.daftarsiswa.model.Student;
 
 import java.util.ArrayList;
 import java.util.List;

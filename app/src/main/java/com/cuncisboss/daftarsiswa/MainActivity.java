@@ -1,8 +1,7 @@
-package com.cuncisboss.tugaslazdayminggu3;
+package com.cuncisboss.daftarsiswa;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
@@ -10,7 +9,6 @@ import android.support.v7.widget.PopupMenu;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.text.TextUtils;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.Menu;
@@ -21,14 +19,12 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.cuncisboss.tugaslazdayminggu3.adapter.StudentAdapter;
-import com.cuncisboss.tugaslazdayminggu3.db.DatabaseHelper;
-import com.cuncisboss.tugaslazdayminggu3.model.Student;
+import com.cuncisboss.daftarsiswa.adapter.StudentAdapter;
+import com.cuncisboss.daftarsiswa.db.DatabaseHelper;
+import com.cuncisboss.daftarsiswa.model.Student;
 
-import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
 import java.util.Locale;

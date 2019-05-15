@@ -1,4 +1,4 @@
-package com.cuncisboss.tugaslazdayminggu3.adapter;
+package com.cuncisboss.daftarsiswa.adapter;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
@@ -9,9 +9,8 @@ import android.view.ViewGroup;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
-import com.cuncisboss.tugaslazdayminggu3.MainActivity;
-import com.cuncisboss.tugaslazdayminggu3.R;
-import com.cuncisboss.tugaslazdayminggu3.model.Student;
+import com.cuncisboss.daftarsiswa.R;
+import com.cuncisboss.daftarsiswa.model.Student;
 
 import java.util.List;
 
